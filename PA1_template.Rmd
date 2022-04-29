@@ -3,8 +3,8 @@ title: "Course Project 1"
 author: "Marco Lopez"
 date: "31/3/2022"
 output:
-  pdf_document: default
   html_document: default
+  pdf_document: default
 ---
 
 ```{r setup, include=FALSE}
